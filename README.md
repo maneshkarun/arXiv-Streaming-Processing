@@ -1,5 +1,5 @@
 # arXiv-Streaming-Processing
-A project to get acquainted with the overall workflow involved in Data Engineering.
+A basic project to get acquainted with the overall workflow involved in Data Engineering.
 
 Streaming data from arXiv, processing it in real-time using Apache Spark and Apache Kafka, and storing it in a MongoDB Atlas database for analysis is a powerful approach for handling large amounts of scientific papers data.
 
