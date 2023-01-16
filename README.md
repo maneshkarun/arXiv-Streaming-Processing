@@ -3,7 +3,7 @@ A basic project to get acquainted with the overall workflow involved in Data Eng
 
 Streaming data from arXiv, processing it in real-time using Apache Spark and Apache Kafka, and storing it in a MongoDB Atlas database for analysis is a powerful approach for handling large amounts of scientific papers data.
 
-The process can work as follows:
+The process works as follows:
 
 - Data is streamed from arXiv in real-time and sent to Kafka.
 - Spark reads data from Kafka and performs various types of analysis on the data, such as natural language processing or sentiment analysis.
