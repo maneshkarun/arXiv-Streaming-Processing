@@ -165,5 +165,5 @@ cate_dict = {
     "stat.ML":"Machine Learning",
     "stat.OT":"Other Statistics",
     "stat.TH":"Statistics Theory"
-}
+ }
 
