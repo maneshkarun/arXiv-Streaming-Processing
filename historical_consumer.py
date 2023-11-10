@@ -84,6 +84,8 @@ ds = df_paper_info \
   .awaitTermination()
 #  .trigger(processingTime='2 seconds') \
 '''
+
+#session
 spark.stop()
 
 
