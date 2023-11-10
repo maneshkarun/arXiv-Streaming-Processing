@@ -70,6 +70,7 @@ while(True):
     # the api again!
     # Comment these 2 lines to get more than 1 row (= results_per_iteration papers) 
     # in a batch in the Consumer
+    #sleep
     print('Sleeping for %i seconds' % wait_time )
     time.sleep(wait_time)
 
