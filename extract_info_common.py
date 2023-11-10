@@ -85,4 +85,4 @@ def extract_func(producer, topic, entry, nltk_words):
         'abstract': abstract,
         'keywords': filtered_common
         }
-    )
+     )
